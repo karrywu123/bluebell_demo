@@ -4,4 +4,4 @@
 或者添加功能
 后端添加路由 
 前端的vue.js 相应的可以添加页面和跳转路由 
-此份代码是后端的工程代码
+这份代码是gin的后端代码 前端代码的路径为  https://github.com/karrywu123/bluebell_frontend
