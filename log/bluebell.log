@@ -1,0 +1,202 @@
+{"level":"INFO","time":"2021-06-22T20:17:18.980+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-23T17:22:02.782+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-23T17:26:22.232+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-23T21:51:16.484+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-24T00:16:11.733+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-24T16:17:12.379+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-24T16:41:04.174+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-24T17:09:30.669+0700","caller":"controller/user.go:70","msg":"mysql.Login(&u) failed","error":"密码错误"}
+{"level":"ERROR","time":"2021-06-24T17:09:33.790+0700","caller":"controller/user.go:70","msg":"mysql.Login(&u) failed","error":"密码错误"}
+{"level":"ERROR","time":"2021-06-24T17:09:39.137+0700","caller":"controller/user.go:65","msg":"invalid params","error":"缺少必填字段username"}
+{"level":"INFO","time":"2021-06-24T19:52:18.403+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-24T19:53:15.231+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-25T00:18:43.560+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-25T17:11:25.943+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-25T17:21:15.116+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-25T18:37:30.652+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-25T22:17:02.691+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-25T23:32:30.266+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-26T00:36:45.423+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-27T16:21:50.566+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-27T17:39:33.785+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-27T19:03:00.918+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-27T19:06:14.616+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-27T19:43:47.647+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T00:12:33.216+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T00:24:59.460+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T00:25:32.109+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T00:26:05.986+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T00:27:13.147+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T00:45:20.595+0700","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T00:45:20.596+0700","caller":"controller/post.go:72","msg":"logic.GetPost(postID) failed","postId":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T00:45:25.427+0700","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T00:45:25.427+0700","caller":"controller/post.go:72","msg":"logic.GetPost(postID) failed","postId":"25467259367456770","error":"无效的ID"}
+{"level":"INFO","time":"2021-06-28T00:55:21.032+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T00:55:50.421+0700","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T00:55:50.425+0700","caller":"controller/post.go:72","msg":"logic.GetPost(postID) failed","postId":"25467259367456770","error":"无效的ID"}
+{"level":"INFO","time":"2021-06-28T00:58:00.387+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T01:00:33.490+0700","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T01:00:33.490+0700","caller":"controller/post.go:72","msg":"logic.GetPost(postID) failed","postId":"25467259367456770","error":"无效的ID"}
+{"level":"INFO","time":"2021-06-28T01:09:49.542+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T01:12:59.060+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T01:13:38.853+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T01:19:32.641+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T01:23:11.736+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T01:23:45.864+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T01:28:54.038+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:25:01.118+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:25:41.075+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:29:02.331+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:29:41.257+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T16:30:44.975+0700","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T16:30:44.976+0700","caller":"controller/post.go:82","msg":"logic.GetPost(postID) failed","postId":"25467259367456770","error":"无效的ID"}
+{"level":"INFO","time":"2021-06-28T16:45:51.239+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:47:31.274+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:49:15.838+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:55:47.782+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T16:56:41.450+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T17:18:17.630+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T17:29:06.203+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T17:51:35.853+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T18:31:37.498+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T18:37:47.086+0700","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"25467259367456770","error":"无效的ID"}
+{"level":"ERROR","time":"2021-06-28T18:37:47.087+0700","caller":"controller/post.go:90","msg":"logic.GetPost(postID) failed","postId":"25467259367456770","error":"无效的ID"}
+{"level":"INFO","time":"2021-06-28T18:56:39.010+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T18:58:16.744+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T19:13:32.305+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T19:17:27.592+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T19:19:37.679+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T20:08:33.921+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T20:31:56.987+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T21:35:06.557+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-28T22:26:38.504+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T22:28:42.370+0700","caller":"controller/user.go:65","msg":"invalid params","error":"缺少必填字段username"}
+{"level":"INFO","time":"2021-06-28T22:45:58.645+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-28T23:13:55.387+0700","caller":"controller/user.go:70","msg":"mysql.Login(&u) failed","error":"用户不已存在"}
+{"level":"INFO","time":"2021-06-28T23:29:12.057+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T00:14:26.032+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T00:52:09.995+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T01:24:37.582+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T01:27:49.329+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:09:31.519+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:12:38.695+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:22:16.559+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:25:08.526+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T16:25:15.313+0700","caller":"controller/vote.go:50","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T16:26:39.619+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T16:26:45.954+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T16:35:32.125+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:37:55.014+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:40:24.614+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T16:41:50.967+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T16:42:48.170+0700","caller":"controller/user.go:72","msg":"mysql.Login(&u) failed","error":"用户不已存在"}
+{"level":"INFO","time":"2021-06-29T16:57:50.560+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T16:57:58.675+0700","caller":"controller/user.go:42","msg":" 用户密码填写错误","注册用户":"","error":"两次密码不一致"}
+{"level":"ERROR","time":"2021-06-29T17:17:49.060+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T17:20:40.567+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T17:20:50.868+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:20:59.069+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:21:12.865+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25740609943764992","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:25:00.664+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T17:34:55.438+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T17:35:04.913+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:35:52.718+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:36:33.362+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T17:37:16.942+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T17:37:23.962+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:37:38.364+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25740609943764992","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:38:32.434+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"ERROR","time":"2021-06-29T17:44:38.781+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25467259367456768","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T17:53:57.393+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T18:15:14.512+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25740609943764992","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-29T19:26:32.203+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T19:35:45.958+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T19:49:41.710+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T19:50:45.538+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T20:20:15.762+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T20:31:01.564+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-29T20:33:30.156+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-29T20:45:52.599+0700","caller":"controller/vote.go:49","msg":"投票报错","投票ID":"25740609943764992","error":"已过投票时间"}
+{"level":"INFO","time":"2021-06-30T19:04:03.210+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T19:04:37.569+0700","caller":"controller/user.go:72","msg":"mysql.Login(&u) failed","error":"密码错误"}
+{"level":"INFO","time":"2021-06-30T21:12:39.305+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T21:20:26.204+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T21:22:54.196+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T21:35:29.081+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T21:53:02.646+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T21:54:34.106+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T21:59:23.165+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:02:32.435+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:10:21.188+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:13:41.016+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:17:20.693+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:17:58.961+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:20:28.724+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:20:56.483+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:24:59.932+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:25:08.295+0700","caller":"mysql/comment.go:31","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"missing destination name post_id in *models.Comment"}
+{"level":"INFO","time":"2021-06-30T22:26:29.718+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:26:47.710+0700","caller":"mysql/comment.go:31","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"missing destination name post_id in *models.Comment"}
+{"level":"ERROR","time":"2021-06-30T22:28:53.666+0700","caller":"mysql/comment.go:31","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"missing destination name post_id in *models.Comment"}
+{"level":"INFO","time":"2021-06-30T22:31:08.351+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:31:15.228+0700","caller":"mysql/comment.go:33","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"missing destination name post_id in *models.Comment"}
+{"level":"INFO","time":"2021-06-30T22:34:22.161+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:41:26.928+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:41:34.675+0700","caller":"mysql/comment.go:34","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"missing destination name post_id in *models.Comment"}
+{"level":"ERROR","time":"2021-06-30T22:41:45.623+0700","caller":"mysql/comment.go:34","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"missing destination name post_id in *models.Comment"}
+{"level":"INFO","time":"2021-06-30T22:42:16.260+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:42:25.994+0700","caller":"mysql/comment.go:34","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where question_id = ?","error":"Error 1054: Unknown column 'question_id' in 'where clause'"}
+{"level":"INFO","time":"2021-06-30T22:43:37.078+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:43:43.065+0700","caller":"mysql/comment.go:33","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '26027320032624640' at line 1"}
+{"level":"INFO","time":"2021-06-30T22:48:18.048+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:48:29.789+0700","caller":"mysql/comment.go:41","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"expected slice but got struct"}
+{"level":"INFO","time":"2021-06-30T22:52:29.713+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:52:44.720+0700","caller":"mysql/comment.go:42","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"non-struct dest type struct with >1 columns (6)"}
+{"level":"INFO","time":"2021-06-30T22:54:39.361+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:54:48.515+0700","caller":"mysql/comment.go:42","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"non-struct dest type struct with >1 columns (6)"}
+{"level":"INFO","time":"2021-06-30T22:56:15.461+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T22:56:22.269+0700","caller":"mysql/comment.go:43","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"non-struct dest type struct with >1 columns (6)"}
+{"level":"INFO","time":"2021-06-30T22:57:20.092+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:58:31.916+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T22:59:31.339+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:00:09.460+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:01:39.424+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:04:22.202+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:06:36.002+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:07:28.983+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:10:55.450+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T23:11:32.612+0700","caller":"mysql/comment.go:42","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"scannable dest type slice with >1 columns (6) in result"}
+{"level":"INFO","time":"2021-06-30T23:15:56.050+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:17:41.958+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:18:10.226+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T23:18:17.608+0700","caller":"mysql/comment.go:43","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"must pass a pointer, not a value, to StructScan destination"}
+{"level":"INFO","time":"2021-06-30T23:18:39.494+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:20:38.665+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:21:01.941+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"ERROR","time":"2021-06-30T23:21:06.427+0700","caller":"mysql/comment.go:43","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"must pass a pointer, not a value, to StructScan destination"}
+{"level":"ERROR","time":"2021-06-30T23:21:08.294+0700","caller":"mysql/comment.go:43","msg":"query community failed","sql":"select comment_id, content, post_id, author_id, parent_id, create_time from comment where post_id = ?","error":"must pass a pointer, not a value, to StructScan destination"}
+{"level":"INFO","time":"2021-06-30T23:21:24.616+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:27:53.533+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:30:31.226+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:34:20.628+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:34:50.709+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:38:30.795+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:39:20.096+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:48:03.627+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-06-30T23:48:53.816+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:15:20.169+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:19:04.530+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:31:45.523+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:46:09.185+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:47:52.949+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:48:38.480+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:54:00.429+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:55:53.569+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T00:59:35.123+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:00:38.611+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:04:01.699+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:06:38.214+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:07:32.404+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:10:21.159+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:17:56.863+0700","caller":"logger/logger.go:43","msg":"init logger success"}
+{"level":"INFO","time":"2021-07-01T01:19:02.212+0700","caller":"logger/logger.go:43","msg":"init logger success"}
